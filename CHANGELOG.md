@@ -6,4 +6,8 @@
 
 ## 0.0.2
 
-- Updated broker logo url.
+- Updated broken logo url.
+
+## 0.0.3
+
+- resolved typo in changelog.md

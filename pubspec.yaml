@@ -1,6 +1,6 @@
 name: broker
 description: A message broker for flutter widgets for communicating with other widget irrespective of there position in widget tree.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/ShikharY10/broker
 
 environment:
