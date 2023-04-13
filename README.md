@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/images/logo.png" alt="Magator Logo" width="320">
+  <img src="https://raw.githubusercontent.com/ShikharY10/broker/main/assets/images/logo.png" alt="Magator Logo" width="320">
   <h1>Broker</h1>
   <strong>A Object broker for flutter app</strong>
   <h5>Send messages to any widget from anywhere in your flutter app</h5>
